@@ -1,3 +1,5 @@
+<p align="center"><strong>English</strong> | <a href="README.pt-BR.md">Português (Brasil)</a></p>
+
 # Metron — Comparative Model Evaluation
 
 A multidisciplinary initiative for reproducible benchmarking, uncertainty analysis and comparative evaluation of mathematical, process-based and machine learning models.
