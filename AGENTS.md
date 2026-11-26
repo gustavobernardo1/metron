@@ -10,3 +10,7 @@ Metron is a benchmarking research initiative, not a leaderboard factory. Agents 
 - Record data provenance, configuration, environment, random seeds and commands. Do not commit secrets, personal information, proprietary farm data or large datasets.
 - Clearly label planned, executed and independently reproduced experiments. Human review is required before publication of novel claims or restricted results.
 - Use the benchmark protocol template. Keep the first study narrow and complete before expanding to other domains.
+
+## Scope boundary
+
+Method-focused learning, derivations, implementations and paper reproductions belong in [matematications](https://github.com/gustavobernardo1/computational-mathematics). Metron owns independent comparative research questions, common evaluation protocols, model adapters, comparative experiments and their evidence. Do not duplicate learning studies or application-specific validation; link to their canonical sources.
