@@ -18,3 +18,7 @@ A multidisciplinary initiative for reproducible benchmarking, uncertainty analys
 - `tests/`: verification of shared utilities.
 
 See [methodology](METHODOLOGY.md), [roadmap](ROADMAP.md), and [agent instructions](AGENTS.md). No restricted research data may be published without authorization. External model code and datasets retain their own licensing terms.
+
+## Scope boundary
+
+[matematications](https://github.com/gustavobernardo1/computational-mathematics) is the learning workspace for mathematical methods and scientific machine learning. Metron owns independent comparative evaluations of competing models, not general study notes or application-specific validation.
